@@ -82,15 +82,6 @@ https://templatemo.com/tm-568-digimedia
                     @endauth
                     </div>
                 @endif
-            <!-- ***** Logo Start ***** -->
-            <!-- <a href="index.html" class="logo">
-              <img src="assets/images/logo-v3.png" alt="">
-            </a> -->
-            <!-- ***** Logo End ***** -->
-            <!-- ***** Menu Start ***** -->
-               
-            
-            <!-- ***** Menu End ***** -->
           </nav>
         </div>
       </div>
@@ -110,19 +101,12 @@ https://templatemo.com/tm-568-digimedia
                     <h1>Final Year Project</h1>
                     <h2>Management System</h2>
                     <h3 style="color:blue">To improve efficiency and productivity in managing and coordinating FYP</h3>
-                    <!--<p>This template is brought to you by TemplateMo website. Feel free to use this for a commercial purpose. You are not allowed to redistribute the template ZIP file on any other template website. Thank you.</p> -->
                   </div>
-                  <!-- <div class="col-lg-12">
-                    <div class="border-first-button scroll-to-section">
-                      <a href="#contact">Login</a>
-                    </div>
-                  </div> -->
                 </div>
               </div>
             </div>
             <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <!-- <img src="assets/images/slider-dec-v3.png" alt=""> -->
                 <img src="assets/images/fyp-main.png" alt="">
               </div>
             </div>
