@@ -60,8 +60,6 @@
                                     <td> {{$disp['progress']}} </td>
                                     <td> {{$disp['status']}} </td>
                                     <td><a href={{"upd/".$disp["studentID"]}}>Update</a></td> 
-                                    <!-- <td><a href={{"del/".$disp["studentID"]}}>Delete</a></td>  -->
-                                    <!-- <td><a href={{"upd/". $disp['id']}}>Update</a></td> -->
                                 </tr>
 
                             @endforeach

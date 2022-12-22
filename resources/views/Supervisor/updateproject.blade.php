@@ -47,10 +47,6 @@
       <div>
         <label for="selectProject">Project Type :</label>
         <input type="text" name="projectType" id="selectProject" value="{{$disp['projectType']}}" readonly>
-        <!-- <select name="type" id="selectProject" value="{{$disp['projectType']}}" readonly>
-            <option readonly>Development Project</option>
-            <option readonly>Research Project</option>
-        </select> -->
       </div>
       </br>
       <div>
@@ -94,9 +90,6 @@
             <option name="Milestone 1" id="1">Milestone 1</option>
             <option name="Milestone 2" id="2">Milestone 2</option>
             <option name="Final Project" id="3">Final Project</option>
-            <!-- <option>Milestone 1</option>
-            <option>Milestone 2</option>
-            <option>Final Report</option> -->
           </select>
       </div>
       </br>
@@ -107,10 +100,6 @@
             <option name="Delayed" id="2">Delayed</option>
             <option name="Extended" id="3">Extended</option>
             <option name="Completed" id="4">Completed</option>   
-            <!-- <option>On track</option>
-            <option>Delayed</option>
-            <option>Extended</option>
-            <option>Completed</option> -->
           </select>
       </div>
       </br></br>
