@@ -79,7 +79,7 @@
                         <input type="text" name="examiner2" class="form-control" id="InputExaminer2" placeholder="Examiner 2">
                       </div> -->
                       <div class="form-group">
-                        <label for="InputExaminer1">Supervisor</label>
+                        <label for="InputExaminer1">Examiner 1</label>
                         <select name="examiner1" class="form-control" id="InputExaminer1">
                           <option>Choose Examiner 1 ...</option>
                           <option>Azlan Yusof</option>
@@ -100,7 +100,7 @@
                         </select>
                       </div>
                       <div class="form-group">
-                        <label for="InputExaminer2">Supervisor</label>
+                        <label for="InputExaminer2">Examiner 2</label>
                         <select name="examiner2" class="form-control" id="InputExaminer2">
                           <option>Choose Examiner 2 ...</option>
                           <option>Azlan Yusof</option>
