@@ -45,10 +45,6 @@
                         <label for="InputStudent">Student Name</label>
                         <input type="text" name="studentName" class="form-control" id="InputStudent" placeholder="Student Name">
                       </div>
-                      <!-- <div class="form-group">
-                        <label for="InputSupervisor">Supervisor</label>
-                        <input type="text" name="supervisor" class="form-control" id="InputSupervisor" placeholder="Supervisor">
-                      </div> -->
                       <div class="form-group">
                         <label for="InputSupervisor">Supervisor</label>
                         <select name="supervisor" class="form-control" id="InputSupervisor">
@@ -70,14 +66,6 @@
                           <option>Azhana Ahmad, Ts. Dr.</option>
                         </select>
                       </div>
-                      <!-- <div class="form-group">
-                        <label for="InputExaminer1">Examiner 1 </label>
-                        <input type="text" name="examiner1" class="form-control" id="InputExaminer1" placeholder="Examiner 1">
-                      </div>
-                      <div class="form-group">
-                        <label for="InputExaminer2">Examiner 2 </label>
-                        <input type="text" name="examiner2" class="form-control" id="InputExaminer2" placeholder="Examiner 2">
-                      </div> -->
                       <div class="form-group">
                         <label for="InputExaminer1">Examiner 1</label>
                         <select name="examiner1" class="form-control" id="InputExaminer1">
