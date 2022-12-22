@@ -22,6 +22,7 @@
                 <div class="card">
                   <div class="card-body">
                     <h1>Welcome Coordinator</h1>
+                    <h2>to the system</h2>
                   </div>
                 </div>
               </div>
