@@ -8,7 +8,8 @@ use App\Models\Project;
 class userControl extends Controller
 {
     function listOut(){
-        $output= Project::all();
+        // $output= Project::all();
+        $output= Project::paginate(5);
         return view('supervisor.projectlist', ['list'=>$output]);
     }
     function showStud($id){

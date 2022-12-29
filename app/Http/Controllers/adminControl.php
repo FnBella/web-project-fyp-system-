@@ -8,7 +8,8 @@ use App\Models\Project;
 class adminControl extends Controller
 {
     public function show(){
-        $Data= Project::all();
+        // $Data= Project::all();
+        $Data= Project::paginate(5);
         return view('admin.projectlist', ['list'=>$Data]);
     }
 
